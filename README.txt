@@ -9,4 +9,4 @@ IMPORTANT NOTE - This only includes skins/icons for the following vehicles: Pz. 
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
